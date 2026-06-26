@@ -23,6 +23,7 @@
     <relativePath>../pom.xml</relativePath>
     <version>1.15.1</version>
   </parent>
+  <version>1.15.1.001</version>
 
   <modelVersion>4.0.0</modelVersion>
 
